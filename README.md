@@ -1,3 +1,3 @@
 # hello-world
 This is always first program in any programming language
-(Python, Java,.Net)
+(Python, Java, .Net etc.)
